@@ -1,3 +1,6 @@
+pub const GRID_WIDTH: u8 = 80;
+pub const GRID_HEIGHT: u8 = 24;
+
 fn main() {
     println!("Hello, world!");
 
